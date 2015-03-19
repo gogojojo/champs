@@ -1,0 +1,247 @@
+#poly {
+
+}
+.a {
+  position: absolute;
+  top:0;
+  left:0;
+  display: inline-block;
+  height: 500px;
+  width:500px;
+  background-color: #691610;
+-webkit-clip-path: polygon( 23.7% 18.4%, 30.3% 11.2%, 38.1% 35.8% );
+}
+.b {
+  position: absolute;
+  top:0px;
+  left:0px;
+  height: 500px;
+  width:500px;
+  background-color: #371313;
+-webkit-clip-path: polygon( 23.7% 18.3%, 23.7% 36.2%, 38.7% 36.5% );
+}
+.c {
+  position: absolute;
+  top:0px;
+  left:0px;
+  height: 500px;
+  width:500px;
+  background-color: #af1b13;
+-webkit-clip-path: polygon( 30.2% 11.4%, 38.3% 9.8%, 38.3% 36.5% );
+}
+.d {
+  position: absolute;
+  top:0px;
+  left:0px;
+  height: 500px;
+  width:500px;
+  background-color: #d52015;
+-webkit-clip-path: polygon( 38.2% 9.6%, 38.2% 36%, 59.6% 22.3% );
+}
+.e {
+  position: absolute;
+  top:0px;
+  left:0px;
+  height: 500px;
+  width:500px;
+  background-color: #ec261b;
+-webkit-clip-path: polygon( 37.6% 9.7%, 65.2% 11.6%, 59.6% 22.6% );
+}
+.f{
+  position: absolute;
+  top:0px;
+  left:0px;
+  height: 500px;
+  width:500px;
+  background-color: #F47C6C;
+-webkit-clip-path: polygon(59.4% 22.2%, 65.2% 11.6%, 72.6% 20.1%, 72.6% 31% );
+}
+.g{
+  position: absolute;
+  top:0px;
+  left:0px;
+  height: 500px;
+  width:500px;
+  background-color: #EF4326;
+-webkit-clip-path: polygon(72.6% 20.1%, 72.6% 31%, 80.3% 31% );
+}
+.h{
+  position: absolute;
+  top:0px;
+  left:0px;
+  height: 500px;
+  width:500px;
+  background-color: #810e07;
+-webkit-clip-path: polygon(72.4% 20.1%, 80.3% 20.1%, 80.1% 31% );
+}
+.i{
+  position: absolute;
+  top:0px;
+  left:0px;
+  height: 500px;
+  width:500px;
+  background-color: #f55c56;
+-webkit-clip-path: polygon(80.2% 20.1%, 80% 31%, 85.6% 25.6% );
+}
+.j{
+  position: absolute;
+  top:0px;
+  left:0px;
+  height: 500px;
+  width:500px;
+  background-color: #f92618;
+-webkit-clip-path: polygon(79.8% 30.7%, 85.6% 25.6%, 85.6% 41.2% );
+}
+.k {
+  position: absolute;
+  top:0px;
+  left:0px;
+  height: 500px;
+  width:500px;
+  background-color: #dd1a06;
+-webkit-clip-path: polygon(74.2% 45.1%, 80.1% 30.8%, 85.7% 41% );
+}
+.l {
+  position: absolute;
+  top:0px;
+  left:0px;
+  height: 500px;
+  width:500px;
+  background-color: #ec3225;
+-webkit-clip-path: polygon(74% 45%, 85.7% 41%, 78.7% 54.7% );
+}
+.m {
+  position: absolute;
+  top:0px;
+  left:0px;
+  height: 500px;
+  width:500px;
+  background-color: #f92821;
+-webkit-clip-path: polygon(65.3% 68.4%,74.1% 45%, 78.7% 54.5% );
+}
+.n {
+  position: absolute;
+  top:0px;
+  left:0px;
+  height: 500px;
+  width:500px;
+  background-color: #F05246;
+-webkit-clip-path: polygon(52.3% 71.7%, 65.6% 39.9%, 65.3% 68.4% );
+}
+.o {
+  position: absolute;
+  top:0px;
+  left:0px;
+  height: 500px;
+  width:500px;
+  background-color: #C41D15;
+-webkit-clip-path: polygon(65.4% 39.9%, 65.2% 68.7%, 74.2% 45.6% );
+}
+.p {
+  position: absolute;
+  top:0px;
+  left:0px;
+  height: 500px;
+  width:500px;
+  background-color: #F72E27;
+-webkit-clip-path: polygon(65.4% 39.9%, 72.8% 30%, 74.4% 45.9% );
+}
+.q {
+  position: absolute;
+  top:0px;
+  left:0px;
+  height: 500px;
+  width:500px;
+  background-color: #F83725;
+-webkit-clip-path: polygon(72.6% 30.4%, 74.2% 45.9%, 80.2% 31% );
+}
+.r {
+  position: absolute;
+  top:0px;
+  left:0px;
+  height: 500px;
+  width:500px;
+  background-color: #F26458;
+-webkit-clip-path: polygon(60% 22.5%, 65.6% 39.9%, 72.6% 30.4% );
+}
+.s {
+  position: absolute;
+  top:0px;
+  left:0px;
+  height: 500px;
+  width:500px;
+  background-color: #C51E18;
+-webkit-clip-path: polygon(37.7% 36%, 60% 21.8%, 65.9% 39.9% );
+}
+.t {
+  position: absolute;
+  top:0px;
+  left:0px;
+  height: 500px;
+  width:500px;
+  background-color:  #B22724;
+-webkit-clip-path: polygon(37.7% 35.8%, 37.7% 53%, 65.9% 39.7% );
+}
+.u {
+  position: absolute;
+  top:0px;
+  left:0px;
+  height: 500px;
+  width:500px;
+  background-color:  #972421;
+-webkit-clip-path: polygon(37.7% 52.8%, 36.4% 70.4%, 66.5% 39% );
+}
+.v {
+  position: absolute;
+  top:0px;
+  left:0px;
+  height: 500px;
+  width:500px;
+  background-color:  #C41D15;
+-webkit-clip-path: polygon(65.7% 39.8%, 36.3% 70%, 52.6% 72.3% );
+}
+.w {
+  position: absolute;
+  top:0px;
+  left:0px;
+  height: 500px;
+  width:500px;
+  background-color:  #381211;
+-webkit-clip-path: polygon(29.6% 65.3%, 38.2% 52%, 36.5% 70%);
+}
+.x {
+  position: absolute;
+  top:0px;
+  left:0px;
+  height: 500px;
+  width:500px;
+  background-color:  #451813;
+-webkit-clip-path: polygon(23.4% 35%, 38% 52.5%, 29.6% 65.6%);
+}
+.y {
+  position: absolute;
+  top:0px;
+  left:0px;
+  height: 500px;
+  width:500px;
+  background-color:  #751A15;
+-webkit-clip-path: polygon(23.4% 35.5%, 38% 52.8%, 38% 36%);
+}
+.z {
+  position: absolute;
+  top:0px;
+  left:0px;
+  height: 500px;
+  width:500px;
+  background-color:  #F7FCFC;
+-webkit-clip-path: polygon(48% 93%, 33% 92.4%,36% 70%,52% 71.5%, 65.7% 68.2%, 57.8% 90.5%);
+}
+.aa {
+  position: absolute;
+  top:0px;
+  left:0px;
+  height: 500px;
+  width:500px;
+  background-color:  grey;
+-webkit-clip-path: polygon(29% 85%,33% 92.4%,36.6% 69.9%, 29.3% 64.6%);
+}
