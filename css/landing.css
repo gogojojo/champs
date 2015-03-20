@@ -1,10 +1,16 @@
+#zero h1 {
+  position: fixed;
+  width: 60%;
+  margin: 0 20% 0 20%;
+  text-align: center;
+  color: white;
+  z-index: 1;  
+}
 .title-container {
   position: relative;
-  margin: 50px;
   width: 600px;
   height: 600px;
   background-color: black;
-
 }
 .a {
   position: absolute;

@@ -45,7 +45,6 @@ body, .onepage-wrapper, html {
   padding: 10px;
   width: 4px;
   height: 4px;
-  display: none;
   
 }
 .onepage-pagination li a:before{
