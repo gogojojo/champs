@@ -2,11 +2,17 @@ section {
   height: 1000px;
   width: 100%;
 }
-.main-container {
+#navigation {
+  position: fixed;
+  top: 0;
+  left: 0;  
+}
+.main {
   width: 100vw;
   height: 100vh;
   background-color: peachpuff;
 }
 #one {
   height: 100vh;
+  background-color: dodgerblue;
 }
